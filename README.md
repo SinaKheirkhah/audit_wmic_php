@@ -1,4 +1,4 @@
 # audit_wmic_php
 
 
-run command `composer require stevebauman/wmi`
+1. run command `composer require stevebauman/wmi`
